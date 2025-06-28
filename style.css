@@ -584,10 +584,10 @@ footer {
   }
 
   .survey-button {
-    width: 3rem;
-    height: 3rem;
+    width: 4rem;
+    height: 4rem;
     bottom: 1rem;
-    right: 0.5rem;
+    right: 1rem;
   }
 
   .survey-button img {
