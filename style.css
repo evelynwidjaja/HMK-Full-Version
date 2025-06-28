@@ -41,7 +41,7 @@ header .Logo {
 header ul {
   display: flex;
   list-style: none;
-  gap: clamp(1.25rem, 5vw, 6.25rem);
+  gap: clamp(0.5rem, 2vw, 2rem);
 }
 
 header ul li {
@@ -363,7 +363,6 @@ footer {
   color: #fff;
   padding: 40px 20px;
   font-family: Arial, sans-serif;
-  overflow-x: hidden;
 }
 
 .container {
@@ -614,4 +613,5 @@ footer {
     padding-bottom: 30px;
     margin: auto;
   }
+
 }
